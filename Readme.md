@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomRecurrenceDialogViewModel.cs](./CS/CustomRecurrenceDialogViewModel.cs) (VB: [CustomRecurrenceDialogViewModel.vb](./VB/CustomRecurrenceDialogViewModel.vb))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to customize the MVVM Appointment Recurrence Form without creating a custom form
 
 
